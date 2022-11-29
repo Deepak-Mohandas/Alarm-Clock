@@ -23,16 +23,16 @@ Insert gif or link to demo
 To install
 
 ```bash
-  ### pip install tkinter
+  pip install tkinter
 ```
 ```bash
-  ### pip install datetime
+  pip install datetime
 ```
 ```bash
-  ### pip install winaudio
+  pip install winaudio
 ```
 ```bash
-  ### python GUI (Graphic User Interface)
+  python GUI (Graphic User Interface)
 
 ```
 
