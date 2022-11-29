@@ -13,11 +13,6 @@ Python consists of some very innovative libraries such as datetime and tkinter w
 ## Time To Wake Up
 
 ![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20201418.png)
-## Demo
-
-Insert gif or link to demo
-
-
 ## Installation - Prerequisites
 
 To install
