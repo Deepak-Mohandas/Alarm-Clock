@@ -27,7 +27,7 @@ pip install winaudio
 
 ## Authors
 
-- [@octokatherine](https://github.com/Deepak-ODRDLabs)
+- [@Deepak](https://github.com/Deepak-ODRDLabs)
 
 
 ## Screenshots
