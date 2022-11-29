@@ -3,9 +3,13 @@
 
 Python consists of some very innovative libraries such as datetime and tkinter which help me to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format.
 
+# Installation
 
+pip install tkinter
 
-A brief description of what this project does and who it's for
+pip install datetime
+
+pip install winaudio
 
 
 ## 
