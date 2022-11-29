@@ -1,6 +1,25 @@
-# Alarm-Clock
-Develop an Alarm Clock With Python -The objective of our project is to implement an alarm clock using Python. Python consists of some very innovative libraries such as datetime and tkinter which help us to build the project using the current date and time as well.
 
-#This project requires good knowledge of Python and GUI (Graphic User Interface).
-Python when combined with Tkinter provides a fast and easy way to create GUI applications. 
-Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+# 
+
+A brief description of what this project does and who it's for
+
+
+# 
+
+A brief description of what this project does and who it's for
+
+
+## 
+
+
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20screenshot/Screenshot%202022-11-28%20112051.png)
+
