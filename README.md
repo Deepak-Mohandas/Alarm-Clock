@@ -12,6 +12,10 @@ pip install datetime
 pip install winaudio
 
 
+   - Tkinter module belongs to a standard library of GUI in Python. It helps me to create a dialog box with any information that we want to provide or get from the users.
+   - Datetime and time modules in python help me to work with the dates and time of the current day when the user is operating python and to manipulate it too.
+   - Winsound module provides access to the basic sound playing machinery provided by Windows platforms. This is useful to generate the sound immediately when a function is called.
+
 ## 
 
 
