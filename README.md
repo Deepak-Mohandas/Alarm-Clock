@@ -33,6 +33,9 @@ Python consists of some very innovative libraries such as datetime and tkinter w
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20124348.png)
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20124527.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20132551.png)
+
+## Time to wakeup
+
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20132801.png)
 
