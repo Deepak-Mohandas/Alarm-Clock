@@ -26,10 +26,6 @@ To install
 
 After above necessities are satisfied, Run the Installer.
 
-## Authors
-
-- [@Deepak](https://github.com/Deepak-ODRDLabs)
-
 
 ## Explanation
 
@@ -49,4 +45,9 @@ After above necessities are satisfied, Run the Installer.
 
 
 ![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Result/Screenshot%202022-11-29%20201418.png)
+
+
+## Authors
+
+- [@Deepak](https://github.com/Deepak-ODRDLabs)
 
