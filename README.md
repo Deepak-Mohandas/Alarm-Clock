@@ -6,13 +6,6 @@ It is no doubt that an alarm clock is always handy to alert us whenever we sleep
 Python consists of some very innovative libraries such as datetime and tkinter which help me to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format.
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20201256.png)
-
-## Time To Wake Up
-
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Running%20Screenshot/Screenshot%202022-11-29%20201418.png)
 ## Installation - Prerequisites
 
 To install
@@ -45,4 +38,15 @@ After above necessities are satisfied, Run the Installer.
 - Winsound module provides access to the basic sound playing machinery provided by Windows platforms. This is useful to generate the sound immediately when a function is called.
 - python when combined with Tkinter provides a fast and easy way to create GUI applications. 
 - Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+
+
+## Screenshots
+
+
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Result/Screenshot%202022-11-29%20201256.png)
+
+## Time To Wake Up
+
+
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Alarm-Clock/blob/main/Result/Screenshot%202022-11-29%20201418.png)
 
